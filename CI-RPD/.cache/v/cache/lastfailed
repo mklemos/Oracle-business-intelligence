@@ -1,0 +1,6 @@
+{
+  "test_cases_for_RPD_deployment.py::test_export_link::test_export_link": true, 
+  "test_cases_for_RPD_deployment.py::test_finance_totals::test_finance_totals": true, 
+  "test_cases_for_RPD_deployment.py::test_operating_fund_orig_budge::test_operating_fund_orig_budge": true, 
+  "test_cases_for_RPD_deployment.py::test_print_link::test_print_link": true
+}
